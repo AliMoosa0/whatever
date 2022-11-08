@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var lbl1: UILabel!
     
     @IBAction func lblButton(_ sender: Any) {
-        lbl1.text = "hello Github"
+        lbl1.text = "hello merge me"
     }
 }
 
